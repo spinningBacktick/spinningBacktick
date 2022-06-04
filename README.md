@@ -18,5 +18,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=spinningbacktick&show_icons=true&locale=en&layout=compact" alt="spinningbacktick" /></p>
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spinningbacktick&" alt="spinningbacktick" /></p> -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spinningbacktick&" alt="spinningbacktick" /></p>
 <p><img align="center" src="https://www.codewars.com/users/andyhollidayart/badges/large" alt="Codewars Badge" /></p>
