@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Andy</h1>
-<h3 align="center">A developer/artist based in the US.</h3>
+<h3 align="center">An artist based in the US.</h3>
 
 - 🔭 I’m currently working on **bringing static art to life through the browser.**
 
