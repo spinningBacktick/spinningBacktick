@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **bringing static art to life through the browser.**
 
-//- 🌱 I’m currently learning **Sass, Blender, Theatre.js**
-
 - 💬 Ask me about **making web art**
 
 <h3 align="left">Connect with me:</h3>
