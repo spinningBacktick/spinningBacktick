@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **bringing static art to life through the browser.**
 
-- 🌱 I’m currently learning **Sass, Blender, Theatre.js**
+//- 🌱 I’m currently learning **Sass, Blender, Theatre.js**
 
 - 💬 Ask me about **making web art**
 
